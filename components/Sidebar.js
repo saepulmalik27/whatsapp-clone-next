@@ -14,6 +14,9 @@ const Sidebar = () => {
         const input = prompt("Please Enter an email address for the user you wish to chat with")
         if (!input) return null;
         
+        if (EmailValidator.validate(input)) {
+                // code push to database
+        }
     };
 
   return (

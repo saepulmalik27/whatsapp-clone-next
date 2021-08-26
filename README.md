@@ -23,4 +23,9 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 1. styled-components
 2. @material-ui/core
 3. @material-ui/icons
+4. firebase
+5. react-firebase-hooks
 ```
+
+how to use auth firebase auth
+
